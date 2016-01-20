@@ -1,0 +1,21 @@
+{
+  "name": "easy-routing-angular2",
+  "version": "0.0.1",
+  "description": "Easy Angular2 Routing",
+  "contributors": [
+    "Isidro Martínez <isidro.amv@gmail.com>"
+  ],
+  "dependencies": {
+    "angular2-jwt": "^0.1.4"
+  },
+  "devDependencies": {
+    "connect": "3.4.0",
+    "del": "2.2.0",
+    "gulp": "3.9.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-typescript": "^2.10.0",
+    "gulplog": "1.0.0",
+    "open": "0.0.5",
+    "serve-static": "1.10.0"
+  }
+}

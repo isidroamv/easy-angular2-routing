@@ -1,0 +1,10 @@
+.title {
+    background: #D29DDC;
+    height: 300px;
+    width: 700px;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 37px;
+    text-align: center;
+    border: 2px solid #9C779B;
+}
